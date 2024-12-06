@@ -8,7 +8,6 @@
     - Nguyễn Lê Hoàng Kha      (Student ID: 21127512  |  Email: nlhkha21@clc.fitus.edu.vn)
     - Trương Vĩnh Phúc         (Student ID: 21127673  |  Email: tvphuc21@clc.fitus.edu.vn)
     - Vũ Minh Quỳnh            (Student ID: 21127682  |  Email: vmquynh21@clc.fitus.edu.vn)
-- Duration: 16/11/2024 to 14/12/2024
 
 ## Project Introduction
 - Dataset: `2425_QC.csv`
@@ -44,5 +43,3 @@
   **List of tool(s):**
 - GitHub: The group's common workspace, used to effectively manage the entire source code of the project. Follow detailed at https://github.com/Alexieve/Applied-Data-Analytics
 - Jira: The group's common workspace, used to assign work, manage and evaluate the level of completion
-
-**List of Tasks**
